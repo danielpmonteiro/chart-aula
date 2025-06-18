@@ -3,13 +3,13 @@ entries:
   giropops-senhas:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-06-18T11:17:34.841996207-03:00"
+    created: "2025-06-18T11:41:38.955504553-03:00"
     description: Gerador de Senhas Criado com o Chat in Live
     digest: b9bad66495a72d7a59997cc4c21291258ccb2cdc230833060e8c0814cfc0236d
     name: giropops-senhas
     sources:
     - https://github.com/badtuxx/giropops-senhas
     urls:
-    - https://github.com/danielpmonteiro/chart-aula/giropops-senhas-0.1.0.tgz
+    - https://danielpmonteiro.github.io/chart-aula/giropops-senhas-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-18T11:17:34.841288745-03:00"
+generated: "2025-06-18T11:41:38.954632356-03:00"
